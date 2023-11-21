@@ -1,6 +1,6 @@
 # Coozila!
 
-## Mission
+# Mission
 
 At Coozila, our mission is to discover, index, and organize all web pages, enabling users to find the most relevant information, websites, and responses across the Web. We're committed to providing a comprehensive and efficient search engine experience.
 
