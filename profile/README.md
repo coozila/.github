@@ -14,7 +14,7 @@ Coozila! presents a unified platform under a single ID, making user experiences 
 
 ## Platform Overview
 
-Coozila is a multifaceted search engine that ensures users can access a vast array of information while prioritizing privacy, ethical search practices, and user control. It integrates numerous search engines and plugins to offer secure and diverse search results while maintaining a commitment to user data protection and customization.
+Coozila is a multifaceted search engine that ensures users can access a vast array of information while prioritizing privacy, ethical search practices, and user control. It integrates numerous plugins to offer secure and diverse search results while maintaining a commitment to user data protection and customization.
 
 ## Core Features
 
