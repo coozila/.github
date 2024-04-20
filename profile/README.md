@@ -6,7 +6,7 @@ At Coozila, our mission is to discover, index, and organize all web pages, enabl
 
 ## Company Overview
 
-Coozila! is an established Spanish company that was founded in 2005. Initially, it offered services such as an internet chat program (Coozila! Messenger) Beta, hosting services, domain registration, digital certificates, site builder, and more, catering to a diverse range of online needs. Starting as a web directory, known as Coozila! Directory, it transformed into a search engine in 2010, offering various online services and search functionalities.
+Coozila! was founded in 2005. Initially, it offered services such as an internet chat program (Coozila! Messenger) Beta, hosting services, domain registration, digital certificates, site builder, and more, catering to a diverse range of online needs. Starting as a web directory, known as Coozila! Directory, it transformed into a search engine in 2009, offering various online services and search functionalities.
 
 ## Description
 
