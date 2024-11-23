@@ -21,7 +21,6 @@ Coozila is a multifaceted search engine that ensures users can access a vast arr
 1. **Privacy and Security:** Focuses on safeguarding user data by avoiding tracking and using anonymization techniques.
 2. **Diverse Search Options:** Provides multiple search engines and plugins for various search categories.
 3. **Personalization:** Enables users to personalize their search preferences and settings.
-4. **Open-Source and Community:** Encourages community contributions and open-source development to enhance functionalities.
 
 Coozila represents a shift towards privacy-conscious and customizable search experiences, providing a viable alternative to traditional search engines.
 
