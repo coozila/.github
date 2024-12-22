@@ -1,5 +1,12 @@
 # Coozila!
+<p align="center">
+    <img width="400px" height=auto src="https://www.coozila.com/static/themes/prometheus/img/coozila.png" />
+</p>
 
+<p align="center">
+    <a href="https://twitter.com/coozila"><img src="https://badgen.net/badge/twitter/@coozila/1DA1F2?icon&label" /></a>
+    <a href="https://github.com/coozila"><img src="https://badgen.net/github/stars/coozila?icon=github" /></a>
+</p>
 # Mission
 
 At Coozila, our mission is to discover, index, and organize all web pages, enabling users to find the most relevant information, websites, and responses across the Web. We're committed to providing a comprehensive and efficient search engine experience.
