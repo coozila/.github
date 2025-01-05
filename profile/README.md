@@ -24,7 +24,7 @@ Coozila is a multifaceted search engine that provides access to a vast array of 
 
 Coozila’s identity reflects its commitment to innovation and national pride. The brand colors are inspired by the national flag, embodying values of resilience, unity, and determination. These vibrant colors not only enhance the visual identity but also pay homage to the roots of Coozila's creators.  
 
-Coozila! name comes from the phrase "Cool" and "Zilla" (spider), a spider of the family "Araneidae", symbolizing connectivity and efficiency, akin to the web-building precision of spiders from the "Araneidae" family. This inspiration mirrors Coozila's role in organizing the vast web of online content with meticulous care.
+The name "Coozila!" combines the words "Cool" and "Zilla," referencing a spider from the "Araneidae" family. It symbolizes connectivity and efficiency, much like the web-building precision of web spiders. This inspiration mirrors Coozila's role in organizing the vast web of online content with meticulous care.
 
 ## Core Features
 
